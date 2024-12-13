@@ -4,7 +4,7 @@ public class cyclo {
     public static void main(String[] args) {
         // Test the determineTriangle method with example values
         String result = determineTriangle(0, 0, 0);
-        System.out.println("Result: " + result);
+        System.out.println("Result: 1" + result);
     }
 
     // Method to determine if the triangle is valid or invalid
